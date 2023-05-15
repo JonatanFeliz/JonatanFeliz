@@ -30,7 +30,8 @@
 ![](https://camo.githubusercontent.com/b152bfaf72055cdec5b9bfe86e89b49bb10ef49ec096e3b8d370698d42f5b9e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)
 ![](https://camo.githubusercontent.com/1d9020509510ced9a45a1b810b1e4b8b390edf7274c804ca54746e0ffe5be2f5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472656c6c6f2d2532333032364141372e7376673f7374796c653d666c6174266c6f676f3d5472656c6c6f266c6f676f436f6c6f723d7768697465)
 
-[![Jonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatanFeliz)](https://github.com/JonatanFeliz/github-readme-stats)
+### Git Hub Stats
+[![Jonatan GitHub stats](https://github-readme-stats.vercel.app/api?username=JonatanFeliz&show_icons=true&theme=radical)](https://github.com/JonatanFeliz/github-readme-stats)
 <!--
 **JonatanFeliz/JonatanFeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
