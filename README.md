@@ -5,12 +5,10 @@
 - ⚡ Fun fact: I am very persistent in my goal.
 
 ## 🌐 Contact
-***
 LinkedIn: https://www.linkedin.com/in/jonatan-feliz-ferreras-892a201a0/
 Email: jonatanfelizf@gmail.com
 
 ## 💻 Technologies
-***
 
 <!--
 **JonatanFeliz/JonatanFeliz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
